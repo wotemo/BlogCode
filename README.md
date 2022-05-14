@@ -7,7 +7,7 @@
 ## 欢迎来到我的个人博客👏
 
 <p style="font-size: 18px"> 咱是第一次做博客，有点小激动</p>
-<p style="font-size: 18px"> 博客地址：https://www.shr05.com</p>
+<p style="font-size: 18px"> 博客地址：https://www.wotemo.com</p>
  
 
 ## 我的小爱好🥳
@@ -35,7 +35,7 @@
 </ul>
 
 ## 小说鸭📖
-<p style="font-size: 18px"> 咱就是说在写<a href='https://www.shr05.com/book/'>小说</a>，虽自己都不忍直视🤭</p>
+<p style="font-size: 18px"> 咱就是说在写<a href='https://www.wotemo.com/book/'>小说</a>，虽自己都不忍直视🤭</p>
 
 ## 联系方式☎️
 
